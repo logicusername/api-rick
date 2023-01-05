@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+.letra{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: larger;
+}
+.grid{
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+}

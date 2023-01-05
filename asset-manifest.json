@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https;//logicusername.github.io/api-rick/static/css/main.96ddde7f.css",
+    "main.js": "/https;//logicusername.github.io/api-rick/static/js/main.73233def.js",
+    "index.html": "/https;//logicusername.github.io/api-rick/index.html",
+    "main.96ddde7f.css.map": "/https;//logicusername.github.io/api-rick/static/css/main.96ddde7f.css.map",
+    "main.73233def.js.map": "/https;//logicusername.github.io/api-rick/static/js/main.73233def.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96ddde7f.css",
+    "static/js/main.73233def.js"
+  ]
+}
